@@ -21,7 +21,7 @@ Situs : blog.banghasan.com, bmkg.go.id, script.google.com, https://t.me/botindon
 */
 
 // masukkan token bot mu di sini
-var token = "TOKEN BOT TELEGRAM";
+var token = "5268820603:AAHBec9TNhW-yq0giAx0PBxwJwZIsbBeiTM";
 
 //api server Data Surat Al-Quran 
 var api_fatimah = "https://api.banghasan.com/quran/format/json/surat";
